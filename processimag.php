@@ -24,6 +24,8 @@ $dest = ('cbc.jpg');
         
 $src =('https://chart.googleapis.com/chart?chs=500x500&cht=qr&chl=http%3A%2F%2Fnabadh.000webhostapp.com/mycer.php?name='.$field1email.'&choe=UTF-8');
 $src = imagecreatefromstring(file_get_contents($src));
+//   
+        
         
         
         
