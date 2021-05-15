@@ -32,7 +32,12 @@ $font = "C:\Windows\Fonts\arial.ttf";
         /*if you want to use another font use   file_get_contents */
 //        $font = file_get_contents("http://db.onlinewebfonts.com/t/9ddfee5c410187b783c0be8d068a8273.woff");
 //        file_put_contents("font2.woff", $font);
-       
+
+
+        /*when host your site use font.woff font */
+        /*the font.woff file  in this repository  */
+
+
 /*$font for localhost*/
 /* replace $font with font.woff when you host your website*/
 
